@@ -64,6 +64,15 @@ set(ITK_LIBS ITKAlgorithms
 
     itkhdf5
     itkhdf5_cpp
+
+    itkvcl
+    itkv3p_netlib
+    itkv3p_lsqr
+    itkvnl
+    itkvnl_algo
+    ITKFFT
+    ITKDeprecated
+    ITKIOMRC
     )
 
 
